@@ -17,7 +17,9 @@ Este proyecto describe las etapas de diseño, desarrollo, implementación y vali
 
 ## Cómo Utilizar este Repositorio
 
-Puedes navegar a través de los archivos `.md` mencionados anteriormente para obtener una visión detallada de cada sección del proyecto.
+Puedes navegar esta wiki a través de los archivos `.md` en la sección `Wiki` y mencionados anteriormente para obtener una visión detallada de cada sección del proyecto.
+
+Adicionalmente, se desarroló el documento técnico en LaTeX, su versión en PDF y el zip de este proyecto de puede encontrar en la carpeta `DocumentoTecnico`
 
 ## Contribuidores
 
@@ -27,6 +29,4 @@ Puedes navegar a través de los archivos `.md` mencionados anteriormente para ob
 
 ## Fecha
 
-Septiembre 2023
-
-
+Octubre 2023
